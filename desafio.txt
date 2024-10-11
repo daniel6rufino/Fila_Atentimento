@@ -1,0 +1,4 @@
+
+	fazer um html e um javascript para gerenciar filas
+	quando clicar no botão, tem que gerar uma fila
+	botao esquerdo remove da fila normal, direito da fila especial
